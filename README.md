@@ -4,6 +4,4 @@
 6-8 Hours
 	
 2. Which required and optional stories have you completed?
-All required & all optionals. ![alt tag](https://raw.githubusercontent.com/brandonsouba/Mailbox/master/assignment3.gif)
-
-
+All required & all optionals. ![alt tag](https://github.com/brandonsouba/-Codepath-iOS-for-Designers-Assignment-4/blob/master/assignment4.gif?raw=true)
